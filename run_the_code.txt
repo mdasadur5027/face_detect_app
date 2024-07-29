@@ -1,0 +1,5 @@
+#in vs code terminal
+python -m app.main
+
+#install by pyinstaller
+pyinstaller --onefile main.py
